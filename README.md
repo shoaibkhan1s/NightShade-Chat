@@ -101,7 +101,7 @@ DELETE /message/0
 }
 ```
 
-### 3. GET `/messages`
+### 3. GET `/`
 
 **Description:** Retrieve all chat messages.
 
