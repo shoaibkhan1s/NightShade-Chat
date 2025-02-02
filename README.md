@@ -36,7 +36,7 @@ Ensure that you have the following installed:
 
    ```env
    PORT=3000
-   CORS_ORIGIN='*' //Allow all domains
+   CORS_ORIGIN=* //Allow all domains
    ```
 
 4. **Start the Server:**
@@ -79,8 +79,7 @@ NightShade-Chat
 
 ```json
 {
-  "status": "success",
-  "message": "Message sent successfully."
+  "status": "success"
 }
 ```
 
@@ -91,15 +90,14 @@ NightShade-Chat
 **Request:**
 
 ```bash
-DELETE /message/1
+DELETE /message/0
 ```
 
 **Response:**
 
 ```json
 {
-  "status": "success",
-  "message": "Message deleted successfully."
+  "status": "success"
 }
 ```
 
