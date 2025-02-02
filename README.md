@@ -36,7 +36,7 @@ Ensure that you have the following installed:
 
    ```env
    PORT=3000
-   CORS_ORIGIN=* //Allow all domains
+   CORS_ORIGIN='*' //Allow all domains
    ```
 
 4. **Start the Server:**
