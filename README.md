@@ -1,4 +1,7 @@
-# NightShade Chat Application [↗](https://night-shade-chat.vercel.app/)
+# NightShade Chat Application # My Project
+
+Visit the live site: <a href="https://night-shade-chat.vercel.app/" style="text-decoration: none; font-size: 20px; color: #4CAF50;">NigthShade Chat</a>
+
 
 
 A sleek and stylish chat application with a vibrant UI that allows users to communicate seamlessly. The project is built using Node.js, Express, and EJS template engine.
