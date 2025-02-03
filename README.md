@@ -1,6 +1,6 @@
 # Chat Orbit Application 
 
-Visit the live site: <a href="https://night-shade-chat.vercel.app/" style="text-decoration: none; font-size: 20px; color: #4CAF50;">NigthShade Chat</a>
+Visit the live site: <a href="https://night-shade-chat.vercel.app/" style="text-decoration: none; font-size: 20px; color: #4CAF50;">Chat Orbit</a>
 
 
 
