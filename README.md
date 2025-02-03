@@ -27,7 +27,7 @@ Ensure that you have the following installed:
 
    ```bash
    git clone <repository-url>
-   cd NightShade-Chat
+   cd <repository-url>
    ```
 
 2. **Install Dependencies:**
